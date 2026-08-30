@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm mohamed amine boulanouar from Morocco and A student in 1337<br>- 🔭 I’m working as Data Analyste<br>- 📚 I'm currently learning Agentic AI<br>- ⚡ In my free time I build multimodal RAG's</p>
+<p align="left">I'm mohamed amine boulanouar from Morocco and A student in 1337</p>
 
 ###
 
